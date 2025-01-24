@@ -33,7 +33,7 @@ Appends new data to an existing file without overwriting previous content.
 **Interactive Menu**:
 A user-friendly menu allows users to choose between file operations or exit the program.
 
-## OUTPUT OF THE TASK 
+### OUTPUT OF THE TASK 
 ![Screenshot 2025-01-08 203409](https://github.com/user-attachments/assets/5a9ca404-4e90-4735-a8a0-dbdbb66f2cf4)
 ![Screenshot 2025-01-08 203524](https://github.com/user-attachments/assets/dd43d642-bcc8-424d-b48a-7635a916db68)
 ![Screenshot 2025-01-08 203622](https://github.com/user-attachments/assets/8776232e-e40a-47cf-8f8c-460e334f3e21)

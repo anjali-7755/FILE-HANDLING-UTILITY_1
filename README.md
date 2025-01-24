@@ -1,11 +1,14 @@
 # FILE-HANDLING-UTILITY_1
+
 ### **COMPANY**: CODETECH IT SOLUTIONS
 ### **NAME**: ANJALI T
 ### **INTERN ID**: CT08IWY       
 ### **DOMAIN**: JAVA
 ### **BATCH DURATION**: January 5th, 2025 to February 5th, 2025
 ### **MENTOR NAME**: Neela Santhosh Kumar
-#### DESCRIPTION OF THE TASK: This project is a simple Java program that demonstrates essential file handling operations, such as reading from a file, writing to a file, and modifying its content. It provides a menu-driven interface for users to perform these operations interactively. The purpose of this project is to showcase the use of Java's built-in libraries for handling text files and provide a clear understanding of file operations.
+
+## **DESCRIPTION OF THE TASK**: 
+This project is a simple Java program that demonstrates essential file handling operations, such as reading from a file, writing to a file, and modifying its content. It provides a menu-driven interface for users to perform these operations interactively. The purpose of this project is to showcase the use of Java's built-in libraries for handling text files and provide a clear understanding of file operations.
 File handling is a fundamental concept in programming, and this project is designed to build familiarity with Java's java.io package and its capabilities. The program can handle operations on any text file specified by the user. It ensures ease of use and clarity, making it an excellent starting point for beginners in file handling.
 ## **Tools used**:
 Java Development Kit (JDK):
@@ -35,6 +38,8 @@ A user-friendly menu allows users to choose between file operations or exit the 
 
 ## OUTPUT OF THE TASK 
 ![Screenshot 2025-01-08 203409](https://github.com/user-attachments/assets/5a9ca404-4e90-4735-a8a0-dbdbb66f2cf4)
+
 ![Screenshot 2025-01-08 203524](https://github.com/user-attachments/assets/dd43d642-bcc8-424d-b48a-7635a916db68)
+
 ![Screenshot 2025-01-08 203622](https://github.com/user-attachments/assets/8776232e-e40a-47cf-8f8c-460e334f3e21)
 
